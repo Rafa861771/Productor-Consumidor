@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Productor-Consumidor/1.0.0": {
+        "runtime": {
+          "Productor-Consumidor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Productor-Consumidor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

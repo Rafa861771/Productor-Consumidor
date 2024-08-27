@@ -1,0 +1,14 @@
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\bin\Debug\net8.0\Productor-Consumidor.exe
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\bin\Debug\net8.0\Productor-Consumidor.deps.json
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\bin\Debug\net8.0\Productor-Consumidor.runtimeconfig.json
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\bin\Debug\net8.0\Productor-Consumidor.dll
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\bin\Debug\net8.0\Productor-Consumidor.pdb
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.AssemblyInfo.cs
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.dll
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\refint\Productor-Consumidor.dll
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.pdb
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\Productor-Consumidor.genruntimeconfig.cache
+C:\Users\Rafa\Documents\C#\Productor-Consumidor\obj\Debug\net8.0\ref\Productor-Consumidor.dll
